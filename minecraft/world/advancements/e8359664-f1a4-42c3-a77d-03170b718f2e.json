@@ -1,0 +1,20 @@
+{
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-11-09 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2019-11-09 02:49:15 +0000",
+      "minecraft:taiga": "2019-11-09 02:44:44 +0000",
+      "minecraft:jungle": "2019-11-09 02:49:17 +0000",
+      "minecraft:dark_forest": "2019-11-09 02:51:07 +0000",
+      "minecraft:river": "2019-11-09 02:47:41 +0000",
+      "minecraft:plains": "2019-11-09 02:44:51 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
